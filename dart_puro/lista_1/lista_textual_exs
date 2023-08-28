@@ -1,0 +1,61 @@
+1. Calcule a área de um círculo com um raio de 5. (Use a fórmula da área do círculo: πr²).
+
+2. Encontre as raízes de uma equação quadrática com a = 1, b = -3 e c = 2. (Use a fórmula do discriminante: x = [-b ± sqrt(b² - 4ac)] / 2a). Nota: pesquise sobre a biblioteca math na documentação oficial e descubra como importá-la.
+
+3. Calcule o volume de uma esfera com raio 4. (Use a fórmula do volume de uma esfera: 4/3πr³)
+
+4. Determine o valor final obtido pela seguinte expressão numérica: 2 + 3 * 4 - (2 * 3) + 2^3.
+
+5. Converta uma temperatura de 100 graus Fahrenheit para Celsius. (Use a fórmula: C = (F - 32) * 5/9).
+
+6. Converta uma temperatura de 36 graus Celsius para Fahrenheit. (Use a fórmula: F = C * 9/5 + 32)
+
+7. Converta uma distância de 100 quilômetros para milhas. (Use a fórmula: M = Km * 0.62137).
+
+8. Converta uma distância de 60 milhas para quilômetros. (Use a fórmula: Km = M * 1.60934)
+
+9. Converta 100 libras para quilogramas. (Use a fórmula: Kg = Lb * 0.453592).
+
+10. Converta 72 polegadas em metros. (1 polegada = 0.0254 metro).
+
+11. Converta 3 litros em galões americanos. (1 litro = 0.264172 galão americano).
+
+12. Converta 48 onças para gramas. (1 onça = 28.3495 gramas).
+
+13. Converta 5 metros quadrados para pés quadrados. (1 metro quadrado = 10.7639 pés quadrados).
+
+14. Converta 120 milhas por hora para metros por segundo. (1 milha por hora = 0.44704 metros por segundo).
+
+15. Você tem um restaurante que funciona das 8h às 20h. Se um cliente chegar fora desse horário, ele deve ser informado de que o restaurante está fechado. Além disso, se o cliente vier entre as 14h e as 16h, ele deve ser informado de que é a hora do almoço.
+
+16. Você é um bibliotecário e precisa verificar se um livro pode ser emprestado. Se o livro estiver disponível e não for um dos mais procurados, ele pode ser emprestado por 14 dias. Se for um dos mais procurados, só pode ser emprestado por 7 dias. Se o livro não estiver disponível, ele não pode ser emprestado.
+
+17. Você é um consultor de viagens e precisa informar aos clientes sobre o clima de seu destino de viagem. Se o destino for tropical, o clima será quente. Se for no norte, será frio. Se for no deserto, será quente durante o dia e frio à noite. Se for na montanha, será frio e possivelmente com neve.
+
+18. Você precisa calcular o IMC de uma pessoa e classificá-la como "abaixo do peso", "normal", "sobrepeso" ou "obesidade", com base nos resultados.
+
+19. Você está analisando os dados de uma postagem nas redes sociais. Se a postagem tiver mais de 100 curtidas e mais de 50 compartilhamentos, ela será considerada "popular". Se tiver menos de 10 curtidas e menos de 5 compartilhamentos, será considerada "não popular". Todas as outras postagens serão consideradas "médias".
+
+20. Você está planejando um evento e precisa determinar a melhor data. Se a data proposta for durante a semana de trabalho e não houver outro evento programado para o mesmo dia, ela será considerada "ótima". Se for no fim de semana ou houver outro evento no mesmo dia, será considerada "ruim".
+
+21. Você é um analista de ações e precisa aconselhar seus clientes sobre quando comprar ou vender ações. Se a ação estiver em alta e a empresa tiver bons lucros, é hora de vender. Se a ação estiver em baixa e a empresa tiver prejuízo, é hora de comprar. Em todos os outros cenários, é melhor esperar.
+
+22. Você está jogando um jogo de estratégia e precisa determinar a melhor ação a tomar. Se o inimigo estiver atacando e suas defesas estiverem baixas, é melhor fortalecer suas defesas. Se o inimigo estiver atacando e suas defesas estiverem fortes, é melhor contra-atacar. Se o inimigo não estiver atacando, é melhor focar na coleta de recursos.
+
+23. Você é um meteorologista e precisa prever o tempo para amanhã. Se a pressão do ar estiver caindo e houver umidade no ar, é provável que chova. Se a pressão do ar estiver subindo e o ar estiver seco, é provável que esteja ensolarado. Em todos os outros cenários, o tempo será parcialmente nublado.
+
+24. Você é um detetive e precisa determinar se um suspeito é culpado ou inocente. Se o suspeito tiver um álibi sólido, ele é inocente. Se o suspeito não tiver um álibi e houver evidências físicas que o liguem ao crime, ele é culpado. Em todos os outros casos, mais investigação é necessária.
+
+25. Dados dia e mês de nascimento, determine o signo da pessoa usando switch/case.
+
+26. Dado um alimento predefinido, seu programa deve ser capaz de exibir a quantidade de calorias desse alimento. Pesquise 5 alimentos na Internet.
+
+27. O programa deve simular uma rodada de pedra, papel e tesoura. As escolhas do jogador e do computador podem ser predefinidas.
+
+Resolva os seguintes exercícios do Beecrowd. Os valores "lidos" podem ser fixos no programa. Ou se desejar, pesquise sobre o pacote dart:io. Observe que o dartpad não tem suporte a este pacote.
+
+https://www.beecrowd.com.br/judge/pt/problems/view/1008
+
+https://www.beecrowd.com.br/judge/pt/problems/view/1019
+
+https://www.beecrowd.com.br/judge/pt/problems/view/1018
